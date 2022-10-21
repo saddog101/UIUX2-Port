@@ -10,8 +10,8 @@
     margin-top: 2rem;
     border-radius: 1rem;
 }
-@media(min-width: 1690px){
-    .content{
+@media(min-width: 1689px){
+    body{
         margin-left: 15%;
         margin-right: 15%;
     }
