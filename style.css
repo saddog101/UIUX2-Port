@@ -26,6 +26,10 @@
 @media (max-width: 1490px) {
     .navbar{
         position: relative !important;
+        padding-left:0rem !important;
+        padding-right:0rem !important;
+        margin-left:0rem !important;
+        margin-right:0rem !important;
     }
     
 }
@@ -140,8 +144,10 @@ ul{
     list-style-image: url('icons8-chevron-right-50.png');
 
 }
-content{
+.content{
     justify-content: center;
+    background-color: white;
+    margin-top: 30%;
 }
 
 .lst{
@@ -154,13 +160,15 @@ content{
     margin-top: -1rem;
     
 }
-.content{
-    background-color: white;
-    margin-top: 40%;
-}
+
 
 .button{
     justify-content: center;
     display: flex;
     margin-top: 2rem;
+}
+
+.overview{
+    justify-content: center;
+    display: flex;
 }
