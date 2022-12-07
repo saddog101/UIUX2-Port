@@ -23,7 +23,7 @@
   }
 
 
-@media (max-width: 950px) {
+@media (max-width: 900px) {
     .navbar{
         position: relative !important;
         padding-left:0rem !important;
@@ -75,7 +75,7 @@ nav.navbar:hover{
     font-weight: 700;
 }
 
-@media(min-width: 1200px){
+@media(min-width: 900px){
     .content{
         padding-left: 22%;
         padding-right: 22%;
